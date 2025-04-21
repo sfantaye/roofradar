@@ -25,7 +25,7 @@
 - ☁️ Deploy-ready on Railway
 
 ---
-👤 Author
-Built with ❤️ by [Sintayehu Fantaye]
-🌐 [sintayehu.dev] | 🐦 @sfantaye
+
+Built with ❤️ by Sintayehu Fantaye
+🌐 sintayehu.dev
 
